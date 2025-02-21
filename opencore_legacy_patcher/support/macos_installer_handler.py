@@ -202,6 +202,8 @@ fi
                 }
             })
 
+        return {"fake": {"identifier": "FakeId", "name": "Fake USB", "size": 999999999999}}
+
         return list_disks
 
 
